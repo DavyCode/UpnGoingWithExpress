@@ -1,0 +1,22 @@
+{
+  "name": "exerciseapp",
+  "version": "1.0.0",
+  "description": "working with route params",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DavyCode/UpnGoingWithExpress.git"
+  },
+  "author": "Paul Azemoh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DavyCode/UpnGoingWithExpress/issues"
+  },
+  "homepage": "https://github.com/DavyCode/UpnGoingWithExpress#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
